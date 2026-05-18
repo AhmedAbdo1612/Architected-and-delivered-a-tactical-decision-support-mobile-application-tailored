@@ -1,6 +1,10 @@
 # Architected-and-delivered-a-tactical-decision-support-mobile-application-tailored
 # 🎖️ Military Tactical Coverage & Spatial Analysis Tool
-![](project-demo.mp4)
+<p align="center">
+  <video src="https://github.com/AhmedAbdo1612/Architected-and-delivered-a-tactical-decision-support-mobile-application-tailored/blob/main/project-demo.mp4" width="100%" max-width="600" controls autoplay loop muted>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 A mission-critical, mathematician-driven mobile application built for **Battalion-level military combat operations**. This application acts as a tactical decision-support system, empowering commanders to perform rapid, error-free spatial analysis and dynamic terrain coverage visualization under high-pressure environments.
 
