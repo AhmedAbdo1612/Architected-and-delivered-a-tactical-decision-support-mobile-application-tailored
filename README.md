@@ -5,6 +5,7 @@
     Your browser does not support the video tag.
   </video>
 </p>
+
 A mission-critical, mathematician-driven mobile application built for **Battalion-level military combat operations**. This application acts as a tactical decision-support system, empowering commanders to perform rapid, error-free spatial analysis and dynamic terrain coverage visualization under high-pressure environments.
 
 ---
